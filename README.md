@@ -116,4 +116,8 @@ Alle Nachrichten sind einzelne, mit `\n` abgeschlossene Textzeilen.
 
 ## Lizenz
 
-Privates Projekt – Lizenz nach Bedarf ergänzen (z.B. MIT).
+Dieses Projekt steht unter der **MIT-Lizenz**.
+
+Kostenlose Nutzung, Veränderung und Weitergabe erlaubt – auch kommerziell –, solange der ursprüngliche Copyright-Hinweis erhalten bleibt.
+
+Siehe [LICENSE](LICENSE) für den vollständigen Lizenztext.
